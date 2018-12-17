@@ -1,0 +1,339 @@
+fileFormatVersion: 2
+guid: 941d96d1044a39d4391d2674e8cf87bf
+timeCreated: 1528309607
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: group_0
+    100004: group_1
+    100006: ID102
+    100008: ID115
+    100010: ID128
+    100012: ID19
+    100014: ID19 1
+    100016: ID19 2
+    100018: ID19 3
+    100020: ID19 4
+    100022: ID19 5
+    100024: ID19 6
+    100026: ID19 7
+    100028: ID19 8
+    100030: ID27
+    100032: ID27 1
+    100034: ID27 2
+    100036: ID27 3
+    100038: ID27 4
+    100040: ID27 5
+    100042: ID27 6
+    100044: ID27 7
+    100046: ID27 8
+    100048: ID40
+    100050: ID40 1
+    100052: ID40 2
+    100054: ID40 3
+    100056: ID40 4
+    100058: ID40 5
+    100060: ID40 6
+    100062: ID40 7
+    100064: ID40 8
+    100066: ID48
+    100068: ID48 1
+    100070: ID48 2
+    100072: ID48 3
+    100074: ID48 4
+    100076: ID48 5
+    100078: ID48 6
+    100080: ID48 7
+    100082: ID48 8
+    100084: ID73
+    100086: ID81
+    100088: ID94
+    100090: instance_0
+    100092: instance_0 1
+    100094: instance_1
+    100096: instance_1 1
+    100098: instance_2
+    100100: instance_2 1
+    100102: instance_3
+    100104: instance_3 1
+    100106: instance_4
+    100108: Pediment
+    100110: Pediment 1
+    100112: Pediment 2
+    100114: Pediment 3
+    100116: Pediment 4
+    100118: Pediment 5
+    100120: Pediment 6
+    100122: Pediment 7
+    100124: Pediment 8
+    100126: skp_camera_Last_Saved_SketchUp_View
+    400000: //RootNode
+    400002: group_0
+    400004: group_1
+    400006: ID102
+    400008: ID115
+    400010: ID128
+    400012: ID19
+    400014: ID19 1
+    400016: ID19 2
+    400018: ID19 3
+    400020: ID19 4
+    400022: ID19 5
+    400024: ID19 6
+    400026: ID19 7
+    400028: ID19 8
+    400030: ID27
+    400032: ID27 1
+    400034: ID27 2
+    400036: ID27 3
+    400038: ID27 4
+    400040: ID27 5
+    400042: ID27 6
+    400044: ID27 7
+    400046: ID27 8
+    400048: ID40
+    400050: ID40 1
+    400052: ID40 2
+    400054: ID40 3
+    400056: ID40 4
+    400058: ID40 5
+    400060: ID40 6
+    400062: ID40 7
+    400064: ID40 8
+    400066: ID48
+    400068: ID48 1
+    400070: ID48 2
+    400072: ID48 3
+    400074: ID48 4
+    400076: ID48 5
+    400078: ID48 6
+    400080: ID48 7
+    400082: ID48 8
+    400084: ID73
+    400086: ID81
+    400088: ID94
+    400090: instance_0
+    400092: instance_0 1
+    400094: instance_1
+    400096: instance_1 1
+    400098: instance_2
+    400100: instance_2 1
+    400102: instance_3
+    400104: instance_3 1
+    400106: instance_4
+    400108: Pediment
+    400110: Pediment 1
+    400112: Pediment 2
+    400114: Pediment 3
+    400116: Pediment 4
+    400118: Pediment 5
+    400120: Pediment 6
+    400122: Pediment 7
+    400124: Pediment 8
+    400126: skp_camera_Last_Saved_SketchUp_View
+    2000000: skp_camera_Last_Saved_SketchUp_View
+    2100000: classic
+    2100002: classicdoor
+    2100004: material
+    2100006: Google_Earth_Snapshot
+    2100008: whitewall
+    2100010: pediment
+    2300000: //RootNode
+    2300002: ID102
+    2300004: ID115
+    2300006: ID128
+    2300008: ID19
+    2300010: ID19 1
+    2300012: ID19 2
+    2300014: ID19 3
+    2300016: ID19 4
+    2300018: ID19 5
+    2300020: ID19 6
+    2300022: ID19 7
+    2300024: ID19 8
+    2300026: ID27
+    2300028: ID27 1
+    2300030: ID27 2
+    2300032: ID27 3
+    2300034: ID27 4
+    2300036: ID27 5
+    2300038: ID27 6
+    2300040: ID27 7
+    2300042: ID27 8
+    2300044: ID40
+    2300046: ID40 1
+    2300048: ID40 2
+    2300050: ID40 3
+    2300052: ID40 4
+    2300054: ID40 5
+    2300056: ID40 6
+    2300058: ID40 7
+    2300060: ID40 8
+    2300062: ID48
+    2300064: ID48 1
+    2300066: ID48 2
+    2300068: ID48 3
+    2300070: ID48 4
+    2300072: ID48 5
+    2300074: ID48 6
+    2300076: ID48 7
+    2300078: ID48 8
+    2300080: ID73
+    2300082: ID81
+    2300084: ID94
+    2300086: Pediment
+    2300088: Pediment 1
+    2300090: Pediment 2
+    2300092: Pediment 3
+    2300094: Pediment 4
+    2300096: Pediment 5
+    2300098: Pediment 6
+    2300100: Pediment 7
+    2300102: Pediment 8
+    3300000: //RootNode
+    3300002: ID102
+    3300004: ID115
+    3300006: ID128
+    3300008: ID19
+    3300010: ID19 1
+    3300012: ID19 2
+    3300014: ID19 3
+    3300016: ID19 4
+    3300018: ID19 5
+    3300020: ID19 6
+    3300022: ID19 7
+    3300024: ID19 8
+    3300026: ID27
+    3300028: ID27 1
+    3300030: ID27 2
+    3300032: ID27 3
+    3300034: ID27 4
+    3300036: ID27 5
+    3300038: ID27 6
+    3300040: ID27 7
+    3300042: ID27 8
+    3300044: ID40
+    3300046: ID40 1
+    3300048: ID40 2
+    3300050: ID40 3
+    3300052: ID40 4
+    3300054: ID40 5
+    3300056: ID40 6
+    3300058: ID40 7
+    3300060: ID40 8
+    3300062: ID48
+    3300064: ID48 1
+    3300066: ID48 2
+    3300068: ID48 3
+    3300070: ID48 4
+    3300072: ID48 5
+    3300074: ID48 6
+    3300076: ID48 7
+    3300078: ID48 8
+    3300080: ID73
+    3300082: ID81
+    3300084: ID94
+    3300086: Pediment
+    3300088: Pediment 1
+    3300090: Pediment 2
+    3300092: Pediment 3
+    3300094: Pediment 4
+    3300096: Pediment 5
+    3300098: Pediment 6
+    3300100: Pediment 7
+    3300102: Pediment 8
+    4300000: SketchUp
+    4300002: ID73
+    4300004: ID81
+    4300006: ID94
+    4300008: ID102
+    4300010: ID115
+    4300012: ID128
+    4300014: Pediment
+    4300016: ID19
+    4300018: ID27
+    4300020: ID40
+    4300022: ID48
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
