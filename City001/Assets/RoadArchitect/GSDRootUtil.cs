@@ -73,7 +73,7 @@ namespace GSD{
 			if(tObj != null){
 				tString = UnityEditor.AssetDatabase.GetAssetPath( tObj );
 				if(tString == null || tString.Length < 1){
-					Object parentObject = UnityEditor.PrefabUtility.GetPrefabParent(tObj); 
+					Object parentObject = UnityEditor.PrefabUtility.GetCorrespondingObjectFromSource(tObj); 
 					tString = UnityEditor.AssetDatabase.GetAssetPath(parentObject);
 				}
 			}
